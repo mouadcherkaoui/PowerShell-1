@@ -1,0 +1,6 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Refactoring WPF-MVVM.ps1 to make an independent \"base class & |  utility scripts\" to load wpf windows, pages and user controls",
+  "steps": [],
+  "ref": "e65fab8da78041acd8cea1be392dc599c8df7e0f"
+}
